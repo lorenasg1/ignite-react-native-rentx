@@ -3,7 +3,7 @@
 
 App for car rental.
 
-Link for the project layout on Figma.
+[Link](https://www.figma.com/file/Y7R9jbRXgDF58ZuzOl9PME/RentX-Ignite-Copy?node-id=22%3A201) for the project layout on Figma.
 
 
 
